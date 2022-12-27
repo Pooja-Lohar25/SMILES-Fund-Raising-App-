@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*********body*****************/
+body{
+  margin : 0px;
+  text-align  :center;
+}
+main{
+    margin  :0px;
+    text-align : center;
+  }
+  form{
+    box-shadow : 5px 2px 13px;
+    border-radius :5px;
+      height : 530px;
+    width : 35%;
+    margin  : 110px;
+    margin-left : 511px;
+    padding-top: 50px;
+
+   }
+   input{
+    margin : 10px;
+    height : 50px;
+    width : 50%;
+    /* padding: 5px; */
+    border-radius : 5px;
+    font-size : 1.2em;
+  }
+  input:hover
+  {
+    box-shadow: 1px 1px 3px;
+  }
+   h3 {
+    font-size: 2em;
+  }
+  p{
+    font-size : 1.5em;
+    margin : 30px;
+  }
+  .must li {
+    font-size : 1.2em;
+    text-align: left;
+    margin-left : 35%;
+  }
+
+  button.reset {
+    margin:30px;
+    height : 50px;
+    width  :20%;
+    background-color : white;
+    border-style: solid;
+    border-radius : 25px;
+    border-color : orange;
+    border-width : 2px;
+    color:orange;
+    font-size: 1.2em;
+  
+  }
+  button.reset:hover{
+    background-color: orange;
+    color:white;
+    cursor: pointer;
+  }
+  button.reset:active{
+    background-color : white;
+    color:orange;
+  }
+  

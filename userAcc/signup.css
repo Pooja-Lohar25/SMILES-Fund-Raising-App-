@@ -1,0 +1,146 @@
+
+ *{
+    margin: 0px;
+    padding: 0px;
+}
+/*********body*****************/
+body{
+  margin : 0px;
+  text-align  :center;
+}
+
+/***************navigation bar************/
+header{
+  height: 80px;
+  background: #282a35;
+  margin: 0px;
+  position: sticky;
+  top : 0px;
+  right : 0px;
+  left : 0px;
+}
+nav {
+ display: inline;
+  position: fixed;
+   top : 0px;
+   left : 0px;
+   right : 0px;
+}
+ul.nav{
+  display:flex;
+ font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ margin: 0px;
+ margin-top: 0px;
+}
+li{
+  list-style-type: none;
+}
+ul.nav li{
+  list-style-type: none;
+  margin-top: 15px;
+  /* text-align: center; */
+  margin-bottom: 35px;
+  display : inline;
+
+}
+
+ nav ul li a {
+  color: white;
+  display : block;
+  padding : 15px 20px 5px;
+   border-radius: 25px;
+  text-decoration: none;
+  font-size: 1.0rem;
+   height  :30px;
+   width : 100px;
+}
+a.nav:visited {
+  text-decoration: none;
+  color: white;
+
+}
+a.nav:hover {
+   background-color: #484a54;
+  text-decoration: none;
+}
+
+/*************main body*************/
+main{
+  margin  :0px;
+  text-align : center;
+}
+form{
+  box-shadow : 5px 2px 13px;
+  border-radius:10px;
+  /*! height : 500px; */
+  width : 35%;
+  margin  : 30px;
+  margin-left : 511px;
+  padding-top: 30px;
+  
+ }
+h3 {
+  font-size: 2em;
+}
+p {
+  font-size : 1.8em;
+  margin : 10px;
+}
+input{
+  margin : 10px;
+  height : 50px;
+  width : 50%;
+  border-radius : 5px;
+  font-size : 1.2em;
+}
+input:hover
+{
+  box-shadow: 1px 1px 3px;
+}
+
+button.sgbtn {
+  margin:10px;
+  height : 50px;
+  width  :20%;
+  background-color : blue;;
+  border-style: solid;
+  border-radius : 25px;
+  border-color : blue;
+  border-width : 2px;
+  color:white;
+  font-size: 1.2em;
+
+}
+button.sgbtn:hover{
+  background-color: lightsteelblue;
+  color:black;
+  border-color:lightsteelblue;;
+}
+button.sgbtn:active{
+  background-color : blue;
+  color:white;
+  border-color:blue;
+}
+a.cancel{
+  margin:10px;
+  height : 33px;
+  width  :20%;
+  background-color : red;
+  border-style: solid;
+border-radius : 25px;
+  border-color : red;
+  border-width : 2px;
+  color:white;
+  font-size: 1.5em;
+  text-decoration: none;
+  display: inline-block;
+  /*! padding-top: 1px; */
+}
+a.cancel:hover{
+  background-color:#ff3333;
+  border-color:#ff3333;
+}
+a.cancel:active{
+  background-color:red;
+  border-color:red;
+}

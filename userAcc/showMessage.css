@@ -1,0 +1,31 @@
+body{
+    margin : 0px;
+    text-align  :center;
+  }
+div.res{    
+    margin-top: 255px;
+    margin-left: 25%;
+    height:200px;
+    width:50%;
+    border-radius:5px;
+     box-shadow: 2px 2px 10px; 
+    text-align: center;
+}
+h3{
+    /* padding: 42px; */
+    font-size: 28px;
+    
+}
+a{
+    margin:0;
+    text-decoration:none;
+    background-color: orange;
+    color:white;
+    height:34px;
+    width:31%;
+    border-style: solid;
+    border-radius:5px;
+    border-color: orange;
+    display: inline-block;
+    font-size: 25px;
+}
