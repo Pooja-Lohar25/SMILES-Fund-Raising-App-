@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/*********body*****************/
+body{
+  margin : 0px;
+  text-align  :center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+[class^="cont"] {
+  text-align : center;
+}
+.bground{
+  background-color:rgb(250, 175, 90); 
+  padding: 100px;
+  text-align: center;
+  color: rgb(19, 9, 65);
+  /* top: 30px; */
+ box-shadow : 5px 2px 13px;
+  /* border-radius :5px; */
+}
+.para{
+  margin: 50px;
+  font-size: 25px;
+}
+.box2{
+  /* height: 85px;
+  width: 520px; */
+  /* color: rgb(19, 9, 65); */
+  /* font-family: 'Rokkitt', serif; */
+   margin: 10px;
+  /* background-color:rgb(243, 239, 248); */
+  text-align: center;
+  /* box-shadow: 2px 2px 6px; */
+   padding: 11px;
+  /* border-radius: 10px; */
+  /* margin-left: 31%; */
+  /* font-size : 1.5em; */
+}
+.box3{
+  /* height: 140px;
+  width: 520px; */
+  /* color: rgb(19, 9, 65); */
+   margin: 10px;
+  /* background-color:rgb(243, 239, 248); */
+   text-align: center;
+  /* box-shadow: 2px 2px 6px; */
+   padding: 11px;
+  /* border-radius: 10px; */
+  /* margin-left: 31%; */
+  /* font-size : 1.5em; */
+}
+[class^="box"] p{
+font-size : 20px;
+}
+.box4{
+  /* height: 130px;
+  width: 520px; */
+  text-align: center;
+  /* color:rgb(19, 9, 65); */
+  /* font-family: 'Rokkitt', serif; */
+ margin: 10px;
+  /* background-color:rgb(243, 239, 248); */
+  /* box-shadow: 2px 2px 6px; */
+  padding: 11px;
+  /* border-radius: 10px; */
+  /* margin-left: 31%; */
+  /* font-size: 1.5em; */
+}
+/* .box4 p{
+  margin: 11px;
+} */
+.icon{
+  /* display:flex; */
+align-content: center;
+/* margin: 2px; */
+}
+.containers{
+  align-content: center;
+  /* background-color:#282a35; */
+}
+
+
+/***************navigation bar************/
+header{
+  height: 80px;
+  background: #282a35;
+  margin: 0px;
+  position: sticky;
+  top : 0px;
+  right : 0px;
+  left : 0px;
+}
+nav {
+ display: inline;
+  position: fixed;
+   top : 0px;
+   left : 0px;
+   right : 0px;
+}
+ul.nav{
+  display:flex;
+ font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ margin: 0px;
+ margin-top: 0px;
+}
+
+ul.nav li{
+  list-style: none;
+  margin-top: 15px;
+  /* text-align: center; */
+  margin-bottom: 35px;
+  display : inline;
+
+}
+nav ul li a {
+  color: white;
+  display : block;
+  padding : 15px 20px 5px;
+   border-radius: 25px;
+  text-decoration: none;
+  font-size: 1.0rem;
+   height  :30px;
+   width : 100px;
+}
+a.nav:visited {
+  text-decoration: none;
+  color: white;
+
+}
+a.nav:hover {
+   background-color: #484a54;
+  text-decoration: none;
+}
+.smiles{
+  font-size:10em;
+  position:relative;
+  top:-176px;
+}

@@ -1,0 +1,56 @@
+footer{
+  margin-top : 20px;
+  margin-bottom : 0px;
+  height: 300px;
+  background-color: #282a35;
+ 
+}
+ul.quicklinks,ul.follow, ul.email {
+ list-style-type: none;
+  text-align : left;
+  position:relative;
+  top:50px;
+}
+ul.quicklinks li ,ul.follow  li, div.email li{
+font-size: 20px;
+margin-left: 30px;
+margin-bottom: 10px;
+}
+div.quicklinks , div.follow, div.email{
+  display : inline;
+  font-size: 18px;
+  font-family: "trirong", serif;
+  float : left;
+}
+div.email {
+  float: left;
+  margin-right : 20px;
+  color: white;
+}
+/* footer p {
+  font-size: 0px;
+  font-family: "trirong", serif;
+  color : black;
+  
+} */
+.quicklinks a:link, .quicklinks a:visited, .follow a:link, .follow a:visited{
+  color:white;
+  font-family: "trirong", serif;
+  text-decoration:none;
+}
+.quicklinks a:hover, .follow a:hover, .follow a span:hover{
+  color:orange;
+}
+.quicklinks a:active, .follow a:active{
+  color: dodgerblue;
+  font-family: "trirong", serif;
+}
+
+div.bottom p {
+background :  #282a35;
+font-size: 15px;
+padding-top : 20px;
+text-align: center;
+margin:0px;
+ height : 70px;
+}

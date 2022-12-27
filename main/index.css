@@ -1,0 +1,173 @@
+
+ *{
+    margin: 0px;
+    padding: 0px;
+}
+.image{
+    
+    /* height:500px;*/
+     height:300px;
+    margin: 0px;
+     padding-top : 496px;
+     background: url("homeback2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align:center;
+    /* background-attachment: fixed; */
+}
+.smiles{
+  font-size:10em;
+  position:relative;
+  top:-176px;
+}
+/* login button section */
+li.btnlog{
+
+    cursor: pointer;
+    margin-top: 15px;
+    margin-right: 0px;
+    font-size: 0.7rem;
+    color: white;
+}
+ul.btn {
+  float:right;
+  position : relative;
+  top :0px;
+}
+.login {
+    border  : solid;
+    border-color: #ff8c00;
+    border-width : 3px;
+    border-radius: 50px;
+    background:none;
+    margin-right:10px;
+    height : 20px;
+    width : 40px;
+    padding-bottom : 10px;
+    color : orange;
+    text-align: center;
+    font-weight  :bold;
+}
+.signup{
+     border  :solid;
+    border-color: #00b3b3;
+    border-width : 3px;
+    border-radius: 50px;
+    background:none;
+    margin-right:10px;
+    height : 20px;
+     width : 50px;
+    padding-bottom : 10px;
+    color : #00b3b3;
+    text-align: center;
+    font-weight  :bold;
+}
+
+.signup:hover{
+background-color: #00b3b3;
+    color :white;
+
+}
+.login:hover{
+    background-color:#ff8c00;
+    color : white;
+}
+.login:active{
+  color : orange;
+  background:none;
+}
+.signup:active{
+  color : #00b3b3;
+  background:none;
+}
+/* content of home */
+.containers{
+    width: 100%;
+    height: 100%;
+
+}
+.box1{
+height: 120px;
+width: 425px;
+color: black;;
+font-family: 'Rokkitt', serif;
+margin: 10px;
+background-color: white;
+text-align: center;
+/* box-shadow: 2px 2px 6px; */
+margin: 10px;
+font-size : 1.5em;
+padding: 2px;
+border-radius: 4px;
+margin-top: 84px;
+margin-left: 10%;
+}
+.box2{
+    height: 200px;
+    width: 425px;
+    color: black;
+    font-family: 'Rokkitt', serif;
+    margin: 10px;
+    background-color:white;
+    text-align: center;
+    /* box-shadow: 2px 2px 6px; */
+    padding: 2px;
+    border-radius: 4px;
+    margin-left: 60%;
+    font-size : 1.5em;
+}
+.box3{
+    height: 230px;
+    width: 425px;
+    color: balck;
+    font-family: 'Rokkitt', serif;
+    margin: 20px;
+    background-color: white;
+    text-align: center;
+    /* box-shadow: 2px 2px 6px; */
+    padding: 2px;
+    border-radius: 4px;
+    margin-left: 10%;
+    font-size : 1.5em;
+}
+.box4{
+    height: 200px;
+    width: 450px;
+    text-align: center;
+    color: black;
+    font-family: 'Rokkitt', serif;
+    margin: 10px;
+    background-color: white;
+    /* box-shadow: 2px 2px 6px; */
+    padding: 2px;
+    border-radius: 4px;
+    margin-left: 60%;
+    font-size: 1.5em;
+}
+/*************extras************/
+div.hr {
+  height : 50px;
+  width:100%;
+  background-color:#ff8c00  ;
+}
+ div.cont1 div,div.cont2 div,div.cont3 div,div.cont4 div{
+  display:inline;
+}
+
+.containers i{
+  margin-left:47%;
+  margin-top:50px;
+  margin-bottom: 20px;
+  color : orange;
+}
+.icon ul{
+  display:flex;
+  margin-left:35%;
+}
+.icon ul li {
+  display:inline;
+}
+.icon ul li i {
+  margin-right:100px;
+  margin-left: 0px;
+}
