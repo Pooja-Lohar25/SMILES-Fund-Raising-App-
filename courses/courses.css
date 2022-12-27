@@ -1,0 +1,46 @@
+div.courses{
+    width:100%;
+    
+}
+div#cat{
+  display:inline-block;
+}
+td{
+  text-align:center;
+}
+td a{
+  text-decoration: none;
+}
+td img{
+  box-shadow:5px 5px 10px grey;
+  
+}
+td img:hover{
+  opacity:0.7;
+}
+td p{
+  font-size:20px;
+  color:black;
+}
+td a.prof_func {
+  height:25px;
+}
+td a.prof_func p{
+  padding:5px;
+  border-style:solid;
+  border-color:orange;
+  border-radius:20px;
+  border-width:2px;
+  color:black;
+}
+td a.prof_func p:hover{
+  padding:5px;
+  background-color:orange;
+  border-radius:20px;
+  color:white;
+}
+td a.sp{
+  margin:20px;
+}
+
+
