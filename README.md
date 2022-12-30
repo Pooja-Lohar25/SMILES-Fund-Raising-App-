@@ -13,3 +13,20 @@ There are three prime obejctives that the application would achieve :<br>
 
 People needing <b>financial</b> help will get the charity amount. <br>
 The source of money would be the sponsors.  In return the application would help them in the <b>marketing</b> of their business.
+
+
+## Requirements
+### Php Installation
+https://www.php.net/manual/en/install.php
+
+### Xampp Installation and configuration
+https://www.apachefriends.org/ <br>
+https://xamppguide.com/
+
+## Database Connection Requirements (MySQL)
+```php
+$dbhost = "localhost";
+$dbuser = "root";
+$dbpass = "";
+$dbname = "smiles";
+```
