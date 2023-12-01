@@ -68,8 +68,8 @@ p.quote{
 
     <div class="show fade">
 
-      <img src="../media/img4.webp" height="600" width="100%">
-      <div class="text"><p>Selfless and Merciful Idea of Loving Ends Suffering.</p></div>
+      <img src="../media/img4.jpg" height="600" width="100%">
+      <div class="text"><p style="color:black;">Selfless and Merciful Idea of Loving Ends Suffering.</p></div>
       <a href="../userAcc/login.php" alt="View Courses">Login/Register</a>
     </div>
 
