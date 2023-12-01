@@ -7,7 +7,7 @@ session_start();
     <meta charset="utf-8">
     <link rel="stylesheet" href="login.css">
     <link rel="stylesheet" href="cancel.css">
-    <link rel="stylesheet" href="footer.css">
+    <link rel="stylesheet" href="../main/footer.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

@@ -46,14 +46,14 @@ p.quote{
 
     <div class="show fade">
 
-      <img src="../media/img2.jpg" height="700" width="100%">
+      <img src="../media/img1.avif" height="600" width="100%">
       <div class="text"><p>Selfless and Merciful Idea of Loving Ends Suffering.</p></div>
       <a href="../userAcc/login.php" alt="View Courses">Login/Register</a>
     </div>
 
     <div class="show fade">
       
-      <img src="../media/img1.jpg" height="700" width="100%">
+      <img src="../media/img2.jpg" height="600" width="100%">
       <div class="text"><p>Selfless and Merciful Idea of Loving Ends Suffering.</p></div>
       <a href="../userAcc/login.php" alt="View Courses">Login/Register</a>
 
@@ -61,38 +61,18 @@ p.quote{
 
     <div class="show fade">
       
-      <img src="../media/img3.jfif" height="700" width="100%">
+      <img src="../media/img3.jpg" height="600" width="100%">
       <div class="text"><p>Selfless and Merciful Idea of Loving Ends Suffering.</p></div>
       <a href="../userAcc/login.php" alt="View Courses">Login/Register</a>
     </div>
 
     <div class="show fade">
 
-      <img src="../media/img4.jfif" height="700" width="100%">
+      <img src="../media/img4.webp" height="600" width="100%">
       <div class="text"><p>Selfless and Merciful Idea of Loving Ends Suffering.</p></div>
       <a href="../userAcc/login.php" alt="View Courses">Login/Register</a>
     </div>
 
-    <div class="show fade">
-
-      <img src="../media/img5.jpg" height="700" width="100%">
-      <div class="text"><p>Selfless and Merciful Idea of Loving Ends Suffering.</p></div>
-       <a href="../userAcc/login.php" alt="View Courses">Login/Register</a>
-    </div>
-
-    <div class="show fade">
-
-      <img src="img7.jpg" height="700" width="100%">
-      <div class="text"><p>Selfless and Merciful Idea of Loving Ends Suffering.</p></div>
-       <a href="../userAcc/login.php" alt="View Courses">Login/Register</a>
-    </div>
-
-    <div class="show fade">
-
-      <img src="../media/img8.jpg" height="700" width="100%">
-      <div class="text"><p>Selfless and Merciful Idea of Loving Ends Suffering.</p></div>
-        <a href="../userAcc/login.php" alt="View Courses">Login/Register</a>
-    </div> 
 
 
     </div> 
