@@ -26,7 +26,7 @@ session_start();
     </nav>
   </header>
   <main>
-    <form class="login-form" action="connect.php" method="post">
+    <form class="login-form" action="/smiles-2/main/connect.php" method="post">
       <h3>LOGIN</h3>
       <br>
       <?php
